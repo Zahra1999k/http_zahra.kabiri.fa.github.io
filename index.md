@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<img src="https://avatars2.githubusercontent.com/u/72122163?s=400&u=f74b75092016a0a17a813c06d34de50cca0a1e20&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/Zahra1999k/http_zahra.kabiri.fa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###درباره ی من
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+من زهرا کبیری سرشت هستم.در حال تحصیل دردانشگاه پیام نور.ترم پنج رشته مهندسی کامپیوتر.گرایش نرم افزار
+من با زبان  C و C++ شروع کردم و در سطح قابل قبولی در این زبان های کامپیوتر قرار دارم.
+و همچنین مهارت متوسطی در کار با کامپیوتر را دارا هستم.
 
-### Markdown
+###اطلاعات شخصی
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+نام:زهرا
+نام خانوادگی:کبیری سرشت
+تاریخ تولد:1378/09/28
+وضعیت شغلی:خالی
+وضعیت تاهل:مجرد
 
-```markdown
-Syntax highlighted code block
+###مهارت ها
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zahra1999k/http_zahra.kabiri.fa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ C++ , Word , PowerPoint:تاحدودی
+ 
+ 
+ ###زبان
+ 
+ فارسی:کاملا خوب
+ انگلیسی:ضعیف
+ 
+ ###تجربه کاری
+ هیچ چیز
+ 
+ ###پروژه
+ هیچ چیز
+ ###حساب های دیگر
+ 
+ English Resume:<a href="
